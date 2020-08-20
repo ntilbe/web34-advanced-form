@@ -9,14 +9,14 @@ import * as yup from 'yup'
 /////SETUP/////
 
 //REMOVE THIS
-const inititalUserList = [
+// const inititalUserList = [
   // {
   //   name: 'Nicole Tilbe',
   //   email: 'nicoletilbe1@gmail.com',
   //   password: 'password',
   //   terms: true
   // }
-]
+// ]
 
 //setting up default form values so that fields are empty
 const initialFormValues = {
